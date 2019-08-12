@@ -243,4 +243,14 @@ limeng:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/limingth"
+      
+sunyuqian1997:
+	  name: “Yuqian Sun”
+	  bio: "清华美院信息设计专业2015级毕业生，辅修智能硬件专业，就读期间曾获MooPas人工智能挑战赛团队冠军，互联网+清华十佳创业团队等奖项。毕业作品入选2019清华美院校级优秀毕设，获学院收藏。2019年秋季前往英国求学，修算法艺术专业，通过编程和新科技手段探索艺术创作。"
+	  avatar: "https://avatars2.githubusercontent.com/u/44117903?s=460&v=4"
+	  membership: member
+	  links:
+	    - label: "GitHub"
+	      icon: "fab fa-fw fa-github"
+	      url: "https://github.com/sunyuqian1997"
 
